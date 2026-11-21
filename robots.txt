@@ -1,0 +1,6 @@
+# Robots.txt for BPO Company Website
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://example.com/sitemap.xml
